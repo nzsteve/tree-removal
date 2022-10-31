@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
-        <loc>https://tree-removal.pages.dev/</loc>
-        <lastmod>2022-07-24T12:05:35+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev</loc>
+        <lastmod>2022-10-31T11:45:04+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/how-do-you-identify-a-certified-arborist-in-glenwood</loc>
+        <lastmod>2022-10-21T23:40:16+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tree-removal-companies-offer-benefits</loc>
@@ -19,55 +25,73 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/quakers-hill/</loc>
+        <loc>https://tree-removal.pages.dev/category/glenwood</loc>
+        <lastmod>2022-10-21T23:40:16+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2022-10-21T23:40:16+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/quakers-hill</loc>
         <lastmod>2022-07-25T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/sydney/</loc>
-        <lastmod>2022-07-25T00:00:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/castle-hill/</loc>
+        <loc>https://tree-removal.pages.dev/category/castle-hill</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-cutting/</loc>
+        <loc>https://tree-removal.pages.dev/tag/tree-and-root-removal</loc>
+        <lastmod>2022-10-21T23:40:16+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/pine-tree-removal</loc>
+        <lastmod>2022-10-21T23:40:16+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/arborist</loc>
+        <lastmod>2022-10-21T23:40:16+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-cutting</loc>
         <lastmod>2022-07-25T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/palm-tree-removal/</loc>
+        <loc>https://tree-removal.pages.dev/tag/palm-tree-removal</loc>
         <lastmod>2022-07-25T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-removal-and-stump-grinding/</loc>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal-and-stump-grinding</loc>
         <lastmod>2022-07-25T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-lopping/</loc>
+        <loc>https://tree-removal.pages.dev/tag/tree-lopping</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/fallen-tree-removal/</loc>
-        <lastmod>2022-07-19T17:22:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/arborist/</loc>
+        <loc>https://tree-removal.pages.dev/tag/fallen-tree-removal</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
