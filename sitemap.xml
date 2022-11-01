@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2022-11-01T01:35:23+00:00</lastmod>
+        <lastmod>2022-11-01T10:20:03+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/how-to-understand-the-services-of-tree-removal-in-nundah</loc>
+        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/how-do-you-identify-a-certified-arborist-in-glenwood</loc>
@@ -21,6 +27,24 @@
     <url>
         <loc>https://tree-removal.pages.dev/the-hiring-of-the-services-of-a-tree-trimmer-and-tree-trunk-removal-specialist</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/nundah</loc>
+        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/brisbane</loc>
+        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/qld</loc>
+        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -45,6 +69,24 @@
     <url>
         <loc>https://tree-removal.pages.dev/category/castle-hill</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-pruning</loc>
+        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/eucalyptus-tree-roots-removal</loc>
+        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
+        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
