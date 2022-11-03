@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2022-11-03T21:00:09+00:00</lastmod>
+        <lastmod>2022-11-03T22:55:04+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/what-is-the-budget-bracket-for-tree-removal-in-dural</loc>
+        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/how-tree-lopping-in-auchenflower-performs-their-task</loc>
@@ -33,6 +39,18 @@
     <url>
         <loc>https://tree-removal.pages.dev/the-hiring-of-the-services-of-a-tree-trimmer-and-tree-trunk-removal-specialist</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/dural</loc>
+        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -67,12 +85,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/sydney</loc>
-        <lastmod>2022-10-21T23:40:16+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/category/quakers-hill</loc>
         <lastmod>2022-07-25T00:00:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -81,6 +93,24 @@
     <url>
         <loc>https://tree-removal.pages.dev/category/castle-hill</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-and-shrub-removal</loc>
+        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-branch-removal-service</loc>
+        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
+        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -110,12 +140,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/eucalyptus-tree-roots-removal</loc>
-        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
         <lastmod>2022-10-26T04:22:01+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
