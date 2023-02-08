@@ -2,9 +2,21 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2023-01-16T05:47:16+00:00</lastmod>
+        <lastmod>2023-02-08T03:58:12+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/the-benefits-of-using-an-arborist-in-ashfield</loc>
+        <lastmod>2023-01-20T11:20:26+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/benefits-of-hiring-tree-removal-in-nundah</loc>
+        <lastmod>2023-01-18T09:10:08+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/how-to-make-an-evaluation-on-your-arborist-in-st-marys</loc>
@@ -67,13 +79,37 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/st-marys</loc>
-        <lastmod>2022-11-16T03:04:33+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/category/ashfield</loc>
+        <lastmod>2023-01-20T11:20:26+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2023-01-20T11:20:26+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/nundah</loc>
+        <lastmod>2023-01-18T09:10:08+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/brisbane</loc>
+        <lastmod>2023-01-18T09:10:08+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/qld</loc>
+        <lastmod>2023-01-18T09:10:08+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/st-marys</loc>
         <lastmod>2022-11-16T03:04:33+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -115,24 +151,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/brisbane</loc>
-        <lastmod>2022-10-31T16:10:48+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/qld</loc>
-        <lastmod>2022-10-31T16:10:48+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/nundah</loc>
-        <lastmod>2022-10-26T04:22:01+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/category/glenwood</loc>
         <lastmod>2022-10-21T23:40:16+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -151,8 +169,38 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-cutting-and-removal</loc>
+        <lastmod>2023-01-20T11:20:26+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/tree-removal-contractors</loc>
-        <lastmod>2022-11-16T03:04:33+00:00</lastmod>
+        <lastmod>2023-01-20T11:20:26+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/hazardous-tree-removal</loc>
+        <lastmod>2023-01-20T11:20:26+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-trimming-and-removal-services</loc>
+        <lastmod>2023-01-18T09:10:08+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-and-bush-removal</loc>
+        <lastmod>2023-01-18T09:10:08+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
+        <lastmod>2023-01-18T09:10:08+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -230,12 +278,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-branch-removal-service</loc>
-        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
         <lastmod>2022-11-03T06:21:10+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
