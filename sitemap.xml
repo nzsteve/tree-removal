@@ -2,13 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2023-08-28T03:49:04+00:00</lastmod>
+        <lastmod>2023-08-28T17:04:04+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tree-removal-in-sydney-the-experts-to-call</loc>
         <lastmod>2023-08-24T12:59:52+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/what-makes-blacktown-tree-removal-an-important-service</loc>
+        <lastmod>2023-08-17T14:47:17+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -139,6 +145,12 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/category/blacktown</loc>
+        <lastmod>2023-08-17T14:47:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/category/balmoral</loc>
         <lastmod>2023-04-01T14:16:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -259,6 +271,18 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/evergreen-tree-removal</loc>
+        <lastmod>2023-08-17T14:47:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-and-shrub-removal</loc>
+        <lastmod>2023-08-17T14:47:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
         <lastmod>2023-08-10T12:48:54+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -308,12 +332,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-and-root-removal</loc>
-        <lastmod>2023-03-19T05:48:46+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/evergreen-tree-removal</loc>
         <lastmod>2023-03-19T05:48:46+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -405,12 +423,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/crane-assisted-tree-removal</loc>
         <lastmod>2022-11-04T18:45:23+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-and-shrub-removal</loc>
-        <lastmod>2022-11-03T06:21:10+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
