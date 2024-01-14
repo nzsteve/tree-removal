@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-01-06T07:35:07+00:00</lastmod>
+        <lastmod>2024-01-14T16:59:05+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/arborist-in-hebersham-providing-expert-tree-care-services</loc>
+        <lastmod>2024-01-15T05:58:04+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/arborist-in-the-hills-transforming-your-landscape-with-expert-tree-care-services</loc>
@@ -229,13 +235,19 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/the-hills-district</loc>
-        <lastmod>2024-01-06T19:42:57+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/category/hebersham</loc>
+        <lastmod>2024-01-15T05:58:04+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2024-01-15T05:58:04+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/the-hills-district</loc>
         <lastmod>2024-01-06T19:42:57+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -261,12 +273,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/category/stanhope-gardens</loc>
         <lastmod>2023-12-15T22:02:30+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/hebersham</loc>
-        <lastmod>2023-12-10T20:26:33+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -427,6 +433,24 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/land-clearing</loc>
+        <lastmod>2024-01-15T05:58:04+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-root-removal-service</loc>
+        <lastmod>2024-01-15T05:58:04+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/arborist</loc>
+        <lastmod>2024-01-15T05:58:04+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/local-tree-removal-services</loc>
         <lastmod>2024-01-06T19:42:57+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -434,12 +458,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/commercial-tree-removal</loc>
-        <lastmod>2024-01-06T19:42:57+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/arborist</loc>
         <lastmod>2024-01-06T19:42:57+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -464,12 +482,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-service-removal-company</loc>
-        <lastmod>2023-12-21T10:35:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/land-clearing</loc>
         <lastmod>2023-12-21T10:35:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -645,12 +657,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-trimming-and-removal-services</loc>
         <lastmod>2023-04-01T14:16:00+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-root-removal-service</loc>
-        <lastmod>2023-03-31T19:24:30+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
