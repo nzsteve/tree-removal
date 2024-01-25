@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-01-16T12:34:05+00:00</lastmod>
+        <lastmod>2024-01-25T04:19:06+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tree-lopping-in-wollongong-keeping-your-trees-healthy-and-safe</loc>
+        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/arborist-in-south-windsor-maintaining-the-beauty-of-trees</loc>
@@ -247,6 +253,24 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/category/albion-park</loc>
+        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/wollongong</loc>
+        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/nsw</loc>
+        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/category/south-windsor</loc>
         <lastmod>2024-01-17T01:30:25+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -278,12 +302,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/bondi</loc>
-        <lastmod>2023-12-24T12:24:17+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/nsw</loc>
         <lastmod>2023-12-24T12:24:17+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -373,18 +391,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/albion-park</loc>
-        <lastmod>2023-03-31T19:24:30+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/wollongong</loc>
-        <lastmod>2023-03-31T19:24:30+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/category/engadine</loc>
         <lastmod>2023-03-17T01:30:51+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -453,6 +459,24 @@
     <url>
         <loc>https://tree-removal.pages.dev/category/castle-hill</loc>
         <lastmod>2022-07-19T17:22:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/dangerous-tree-removal</loc>
+        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-pruning</loc>
+        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/crane-assisted-tree-removal</loc>
+        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -553,12 +577,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/dangerous-tree-removal</loc>
-        <lastmod>2023-12-15T22:02:30+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/tag/tree-cutting</loc>
         <lastmod>2023-12-10T20:26:33+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -619,12 +637,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-pruning</loc>
-        <lastmod>2023-11-19T19:22:51+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/tag/emergency-tree-removal-service</loc>
         <lastmod>2023-11-07T19:15:11+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -651,12 +663,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-removal-service</loc>
         <lastmod>2023-09-04T03:16:33+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/crane-assisted-tree-removal</loc>
-        <lastmod>2023-09-04T00:42:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
