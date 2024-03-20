@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-03-17T16:01:07+00:00</lastmod>
+        <lastmod>2024-03-20T20:40:08+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/arborist-in-strathfield-expert-tree-services-for-your-property</loc>
+        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/the-best-arborist-in-bligh-park-for-expert-tree-care</loc>
@@ -319,13 +325,25 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/bligh-park</loc>
-        <lastmod>2024-03-18T05:00:18+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/category/strathfield</loc>
+        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/nsw</loc>
+        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/bligh-park</loc>
         <lastmod>2024-03-18T05:00:18+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -351,12 +369,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/category/gaythorne</loc>
         <lastmod>2024-02-24T21:40:36+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/nsw</loc>
-        <lastmod>2024-02-24T08:52:57+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -571,6 +583,24 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-branch-removal</loc>
+        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
+        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
+        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/eucalyptus-tree-roots-removal</loc>
         <lastmod>2024-03-18T05:00:18+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -578,12 +608,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-limb-removal</loc>
-        <lastmod>2024-03-18T05:00:18+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
         <lastmod>2024-03-18T05:00:18+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -644,12 +668,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-stump-removal-service</loc>
-        <lastmod>2024-02-21T22:44:50+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
         <lastmod>2024-02-21T22:44:50+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -758,12 +776,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/small-tree-removal</loc>
-        <lastmod>2024-01-15T13:36:34+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-branch-removal</loc>
         <lastmod>2024-01-15T13:36:34+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
