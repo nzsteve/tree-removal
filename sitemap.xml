@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-03-22T15:34:07+00:00</lastmod>
+        <lastmod>2024-03-28T00:15:42+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/the-ultimate-guide-to-hiring-an-arborist-in-redfern</loc>
+        <lastmod>2024-03-28T13:14:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/the-art-of-tree-lopping-in-the-gap-enhancing-your-landscape</loc>
@@ -331,6 +337,18 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/category/redfern</loc>
+        <lastmod>2024-03-28T13:14:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2024-03-28T13:14:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/category/the-gap</loc>
         <lastmod>2024-03-23T04:33:42+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -356,12 +374,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/nsw</loc>
-        <lastmod>2024-03-21T09:39:20+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/sydney</loc>
         <lastmod>2024-03-21T09:39:20+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -595,8 +607,20 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal-contractors</loc>
+        <lastmod>2024-03-28T13:14:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-root-removal-service</loc>
+        <lastmod>2024-03-28T13:14:45+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/arborist</loc>
-        <lastmod>2024-03-23T04:33:42+00:00</lastmod>
+        <lastmod>2024-03-28T13:14:45+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -739,19 +763,7 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-removal-contractors</loc>
-        <lastmod>2024-01-31T05:25:12+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/tag/tree-surgeon</loc>
-        <lastmod>2024-01-31T05:25:12+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-root-removal-service</loc>
         <lastmod>2024-01-31T05:25:12+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
