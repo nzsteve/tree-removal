@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-04-11T11:43:06+00:00</lastmod>
+        <lastmod>2024-04-19T14:38:07+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -27,6 +27,12 @@
     <url>
         <loc>https://tree-removal.pages.dev/expert-arborist-services-in-alexandria</loc>
         <lastmod>2024-04-11T02:39:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/the-ultimate-guide-to-tree-trimming-in-alexandria</loc>
+        <lastmod>2024-04-08T17:33:14+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -715,6 +721,24 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/storm-damage-tree-removal</loc>
+        <lastmod>2024-04-08T17:33:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal-and-stump-grinding</loc>
+        <lastmod>2024-04-08T17:33:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-trimming</loc>
+        <lastmod>2024-04-08T17:33:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/tree-root-removal-service</loc>
         <lastmod>2024-03-28T13:14:45+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -752,12 +776,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/palm-tree-stump-removal</loc>
-        <lastmod>2024-03-03T02:30:15+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-trimming</loc>
         <lastmod>2024-03-03T02:30:15+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -831,12 +849,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-surgeon</loc>
         <lastmod>2024-01-31T05:25:12+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/storm-damage-tree-removal</loc>
-        <lastmod>2024-01-27T22:03:05+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -969,12 +981,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/residential-tree-removal</loc>
         <lastmod>2023-03-06T22:23:48+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-removal-and-stump-grinding</loc>
-        <lastmod>2022-11-16T03:04:33+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
