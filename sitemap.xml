@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-05-07T07:34:07+00:00</lastmod>
+        <lastmod>2024-05-12T16:37:07+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tree-lopping-in-hawkesbury</loc>
+        <lastmod>2024-05-13T04:36:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tree-surgeon-in-oakville-your-local-arborist-experts</loc>
@@ -391,13 +397,19 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/oakville</loc>
-        <lastmod>2024-05-07T19:33:38+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/category/hawkesbury</loc>
+        <lastmod>2024-05-13T04:36:17+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2024-05-13T04:36:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/oakville</loc>
         <lastmod>2024-05-07T19:33:38+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -405,12 +417,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/category/allambie-heights</loc>
         <lastmod>2024-05-01T21:01:52+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/hawkesbury</loc>
-        <lastmod>2024-04-30T08:55:10+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -697,13 +703,25 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/storm-damage-tree-removal</loc>
-        <lastmod>2024-05-07T19:33:38+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/tag/tree-root-removal-service</loc>
+        <lastmod>2024-05-13T04:36:17+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-root-removal-service</loc>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal-stump-grinding</loc>
+        <lastmod>2024-05-13T04:36:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-lopping</loc>
+        <lastmod>2024-05-13T04:36:17+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/storm-damage-tree-removal</loc>
         <lastmod>2024-05-07T19:33:38+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -716,12 +734,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/professional-tree-removal</loc>
-        <lastmod>2024-05-01T21:01:52+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-lopping</loc>
         <lastmod>2024-05-01T21:01:52+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
