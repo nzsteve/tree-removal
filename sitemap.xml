@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-06-28T22:44:12+00:00</lastmod>
+        <lastmod>2024-07-04T17:41:08+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tree-services-in-beaumont-hills</loc>
+        <lastmod>2024-07-05T05:40:59+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/the-ultimate-solution-for-tree-removal-in-kurrajong</loc>
@@ -451,13 +457,19 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/kurrajong</loc>
-        <lastmod>2024-06-29T10:43:08+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/category/beaumont-hills</loc>
+        <lastmod>2024-07-05T05:40:59+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2024-07-05T05:40:59+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/kurrajong</loc>
         <lastmod>2024-06-29T10:43:08+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -787,6 +799,24 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/arborist</loc>
+        <lastmod>2024-07-05T05:40:59+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/ash-tree-removal</loc>
+        <lastmod>2024-07-05T05:40:59+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
+        <lastmod>2024-07-05T05:40:59+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/fallen-tree-removal</loc>
         <lastmod>2024-06-29T10:43:08+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -806,18 +836,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-trimming-and-removal-services</loc>
-        <lastmod>2024-06-23T21:53:36+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
-        <lastmod>2024-06-23T21:53:36+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/arborist</loc>
         <lastmod>2024-06-23T21:53:36+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -861,12 +879,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-cutting-and-removal</loc>
         <lastmod>2024-06-16T16:04:47+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/ash-tree-removal</loc>
-        <lastmod>2024-06-10T08:30:39+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
