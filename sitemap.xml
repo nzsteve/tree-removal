@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-07-24T19:19:35+00:00</lastmod>
+        <lastmod>2024-07-24T21:49:12+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/the-best-arborist-in-seven-hills</loc>
+        <lastmod>2024-07-25T09:48:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/embracing-professional-care-arborist-in-narrabeen</loc>
@@ -487,19 +493,25 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/narrabeen</loc>
-        <lastmod>2024-07-24T18:20:21+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/category/seven-hills</loc>
+        <lastmod>2024-07-25T09:48:14+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/nsw</loc>
-        <lastmod>2024-07-24T18:20:21+00:00</lastmod>
+        <lastmod>2024-07-25T09:48:14+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2024-07-25T09:48:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/narrabeen</loc>
         <lastmod>2024-07-24T18:20:21+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -835,6 +847,24 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-arborist</loc>
+        <lastmod>2024-07-25T09:48:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-cutting</loc>
+        <lastmod>2024-07-25T09:48:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/palm-tree-removal</loc>
+        <lastmod>2024-07-25T09:48:14+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/hazardous-tree-removal</loc>
         <lastmod>2024-07-24T18:20:21+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -872,12 +902,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
-        <lastmod>2024-07-15T22:01:43+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/palm-tree-removal</loc>
         <lastmod>2024-07-15T22:01:43+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -949,20 +973,8 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-cutting</loc>
-        <lastmod>2024-06-22T15:59:58+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/tag/tree-removal-cost</loc>
         <lastmod>2024-06-22T15:59:58+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-arborist</loc>
-        <lastmod>2024-06-16T16:04:47+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
