@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2024-07-24T21:49:12+00:00</lastmod>
+        <lastmod>2024-07-30T21:52:11+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -123,6 +123,12 @@
     <url>
         <loc>https://tree-removal.pages.dev/tree-lopping-in-hawkesbury</loc>
         <lastmod>2024-04-30T08:55:10+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tree-services-in-wollongong</loc>
+        <lastmod>2024-04-29T19:03:40+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -607,6 +613,18 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/category/albion-park</loc>
+        <lastmod>2024-04-29T19:03:40+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/wollongong</loc>
+        <lastmod>2024-04-29T19:03:40+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/category/ropes-crossing</loc>
         <lastmod>2024-04-20T19:36:58+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -679,12 +697,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/wollongong</loc>
-        <lastmod>2024-02-01T10:55:10+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://tree-removal.pages.dev/category/blackett</loc>
         <lastmod>2024-01-31T05:25:12+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -693,12 +705,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/category/north-ryde</loc>
         <lastmod>2024-01-27T22:03:05+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/category/albion-park</loc>
-        <lastmod>2024-01-25T17:18:22+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -1051,6 +1057,18 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-stump-removal-service</loc>
+        <lastmod>2024-04-29T19:03:40+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-removal-contractors</loc>
+        <lastmod>2024-04-29T19:03:40+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/small-tree-removal</loc>
         <lastmod>2024-04-20T19:36:58+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -1058,12 +1076,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-trunk-removal</loc>
-        <lastmod>2024-04-11T23:42:32+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-removal-contractors</loc>
         <lastmod>2024-04-11T23:42:32+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1119,12 +1131,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/pine-tree-removal</loc>
         <lastmod>2024-02-24T08:52:57+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-stump-removal-service</loc>
-        <lastmod>2024-02-21T22:44:50+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
