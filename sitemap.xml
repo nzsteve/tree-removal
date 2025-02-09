@@ -2,9 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" >
     <url>
         <loc>https://tree-removal.pages.dev</loc>
-        <lastmod>2025-02-07T11:38:13+00:00</lastmod>
+        <lastmod>2025-02-09T16:06:15+00:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/comprehensive-tree-services-in-cambridge-park-enhancing-your-green-oasis</loc>
+        <lastmod>2025-02-10T05:05:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/the-ultimate-guide-to-tree-removal-in-eastwood</loc>
@@ -715,13 +721,19 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://tree-removal.pages.dev/category/eastwood</loc>
-        <lastmod>2025-02-03T05:39:46+00:00</lastmod>
+        <loc>https://tree-removal.pages.dev/category/cambridge-park</loc>
+        <lastmod>2025-02-10T05:05:00+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/category/sydney</loc>
+        <lastmod>2025-02-10T05:05:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/category/eastwood</loc>
         <lastmod>2025-02-03T05:39:46+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -1159,6 +1171,24 @@
         <priority>0.6</priority>
     </url>
     <url>
+        <loc>https://tree-removal.pages.dev/tag/ash-tree-removal</loc>
+        <lastmod>2025-02-10T05:05:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/affordable-tree-removal</loc>
+        <lastmod>2025-02-10T05:05:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
+        <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
+        <lastmod>2025-02-10T05:05:00+00:00</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    <url>
         <loc>https://tree-removal.pages.dev/tag/tree-removal-stump-grinding</loc>
         <lastmod>2025-02-03T05:39:46+00:00</lastmod>
         <changefreq>weekly</changefreq>
@@ -1173,12 +1203,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-removal</loc>
         <lastmod>2025-02-03T05:39:46+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/ash-tree-removal</loc>
-        <lastmod>2025-01-27T02:19:09+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -1221,12 +1245,6 @@
     <url>
         <loc>https://tree-removal.pages.dev/tag/tree-trimming-and-removal-services</loc>
         <lastmod>2025-01-16T23:05:36+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/tree-services</loc>
-        <lastmod>2025-01-15T19:44:02+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
@@ -1298,12 +1316,6 @@
     </url>
     <url>
         <loc>https://tree-removal.pages.dev/tag/dead-tree-removal</loc>
-        <lastmod>2024-12-02T22:03:16+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://tree-removal.pages.dev/tag/affordable-tree-removal</loc>
         <lastmod>2024-12-02T22:03:16+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
